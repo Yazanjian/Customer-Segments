@@ -6,7 +6,7 @@ This is also the third project in Into to Machine Learning with Pytorch Nanodegr
 The goal of this project is to study real dataset for a company and extract information that may be used for marketing or product improvement.
 The project is built by using unsupervised ML techniques, specifically clustering using k-means algorithm. 
 
-## File Describtions
+## Files Describtion
 There are two files in this project: the notebook file and a web page. Both have the code and results. 
 
 
