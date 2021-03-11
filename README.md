@@ -1,4 +1,4 @@
-# Customer-Segments
+# Identify Customer-Segments
 This project is to identify possible customers for a company using real data. 
 This is also the third project in Into to Machine Learning with Pytorch Nanodegree from Udacity. 
 
