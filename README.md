@@ -12,9 +12,9 @@ There are two files in this project: the notebook file and a web page. Both have
 
 ## Project main steps
 The project contains Data Preprocessing, Feature Transformation and Clustering. 
-* In Data Preprocessin, we assessed missing data in cloumns and rows as well as apply feature selecetion and feature engineering on some of the attributes. 
+* In Data Preprocessing, we assessed missing data in columns and rows as well as apply feature selection and feature engineering on some of the attributes. 
 * In Feature Transformation step, feature scaling as well as PCA was applied on the data. 
-* In the last step, Clustering, k-means clustering model with k=26 was built. A comparison between two datsets (General population and customers) was done to extract useful information. 
+* In the last step, Clustering, k-means clustering model with k=26 was built. A comparison between two datasets (General population and customers) was done to extract useful information. 
 
 ## Results 
 After building the model and use it to predict the clusters for each customer, we noticed the following:
